@@ -1,2 +1,2 @@
-Git id a version control system.
+Git id a distribute disversion control system.
 Git is free software.
